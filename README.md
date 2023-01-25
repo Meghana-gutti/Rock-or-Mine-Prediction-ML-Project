@@ -3,7 +3,8 @@ Machine Learning Project
  
 The data set was used by Gorman and Sejnowski in their study of the classification of sonar signals using a neural network. In this project I have created a machine learning model using logistic regression algorithm. The project is to train a network to discriminate between sonar signals bounced off a Mines and those bounced off a rock. 
 It is a classification problem, allowing you to practice with perhaps an easier type of supervised learning algorithm. It uses probability to predict the outcome. All of the numeric attributes are in the same units and the same scale, not requiring any special scaling or transforms to get started.
-# Model : Logistic Regression
+
+Model : Logistic Regression
 
 # Advantages:
 
