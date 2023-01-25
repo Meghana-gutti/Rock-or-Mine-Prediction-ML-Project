@@ -7,15 +7,15 @@ It is a classification problem, allowing you to practice with perhaps an easier 
 
 # Advantages:
 
-1.Highly efficient
-2.Doesn't require high computation power
-3.Easy to implement, easily interpretable
-4.It doesn't require scaling of features.
-5.Logistic regression provides a probability score for observations.
+1. Highly efficient
+2. Doesn't require high computation power
+3. Easy to implement, easily interpretable
+4. It doesn't require scaling of features.
+5. Logistic regression provides a probability score for observations.
 
 # Disadvantages:
 
-1.Logistic regression cannot handle a large number of categorical features/variables.
-2.It is vulnerable to overfitting.
-3.It can't solve the non-linear problem with the logistic regression which is why it requires a transformation of non-linear features.
-4.Logistic regression will not perform well with independent variables that are not correlated to the target variable and are very similar or correlated to each other.
+1. Logistic regression cannot handle a large number of categorical features/variables.
+2. It is vulnerable to overfitting.
+3. It can't solve the non-linear problem with the logistic regression which is why it requires a transformation of non-linear features.
+4. Logistic regression will not perform well with independent variables that are not correlated to the target variable and are very similar or correlated to each other.
